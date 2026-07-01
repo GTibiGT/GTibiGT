@@ -1,10 +1,9 @@
 # Welcome!
 
 ## About me:
-- Born in Denmark, lived in Pakistan, now living in Canada
 - Studying Math and CS at the University of Toronto
 - Interested in Game Development and natural language processing
-- I like Soccer, Rugby, Jiu-Jitsu, Drawing and working on cars
+- I like Soccer, Rugby, Jiu-Jitsu, drawing, and playing guitar
 
   <!--## add major projects (TODO)-->
 
